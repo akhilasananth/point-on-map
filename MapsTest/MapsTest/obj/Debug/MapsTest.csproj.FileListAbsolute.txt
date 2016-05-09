@@ -1,0 +1,13 @@
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\MapsTest.exe.config
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\obj\Debug\MapsTest.csprojResolveAssemblyReference.cache
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\obj\Debug\MapsTest.Form1.resources
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\obj\Debug\MapsTest.Properties.Resources.resources
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\obj\Debug\MapsTest.csproj.GenerateResource.Cache
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\MapsTest.exe
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\MapsTest.pdb
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\GMap.NET.Core.dll
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\GMap.NET.Core.xml
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\bin\Debug\GMap.NET.WindowsForms.xml
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\obj\Debug\MapsTest.exe
+c:\users\awesomeness\documents\visual studio 2015\Projects\MapsTest\MapsTest\obj\Debug\MapsTest.pdb
